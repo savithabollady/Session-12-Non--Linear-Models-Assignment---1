@@ -1,0 +1,5 @@
+Use the given link Data Set.
+Answer the below questions:
+a. Perform ANOVA test on the discriminant analysis scores of nuclear localization signals of both nuclear
+and non-nuclear proteins by class variables (Target).
+b. Which class is significantly different from others?
